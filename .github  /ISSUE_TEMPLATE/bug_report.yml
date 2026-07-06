@@ -1,6 +1,24 @@
 name: Сообщить о других сайтах
+description: Предложить сайт для добавления
+title: "[Новый сайт]: "
+labels:
+  - suggestion
+
 body:
   - type: markdown
     attributes:
-      value: "Список составляется вручную, Спасибо что сообщили о новых сайтах!"
-      placeholder: "example.com, https://example123.net, ..."
+      value: |
+        Список составляется вручную.
+        Спасибо, что помогаете находить новые сайты!
+
+  - type: textarea
+    id: websites
+    attributes:
+      label: Сайты
+      description: Укажите один или несколько сайтов.
+      placeholder: |
+        example.com
+        https://example123.net
+        https://another-site.org
+    validations:
+      required: true
