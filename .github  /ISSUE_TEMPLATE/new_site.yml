@@ -19,6 +19,6 @@ body:
       placeholder: |
         example.com
         https://example123.net
-        https://another-site.org
+        https://www.another-site.org
     validations:
       required: true
