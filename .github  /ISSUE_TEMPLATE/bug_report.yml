@@ -1,0 +1,12 @@
+name: 🐛 Сообщить об ошибке
+description: Что-то работает не так
+title: "[Bug]: "
+labels: ["bug"]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Описание
+    validations:
+      required: true
