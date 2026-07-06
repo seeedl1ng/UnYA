@@ -10,8 +10,7 @@
 **1. Установите Tampermonkey (если ещё не установлен):**
 
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-- [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) / [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
-- [Safari](https://apps.apple.com/us/app/tampermonkey/id6738342400)
+- [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
  **2. Установите скрипт:**
  
