@@ -1,0 +1,6 @@
+name: Сообщить о других сайтах
+body:
+  - type: markdown
+    attributes:
+      value: "Список составляется вручную, Спасибо что сообщили о новых сайтах!"
+      placeholder: "example.com, https://example123.net, ..."
