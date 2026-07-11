@@ -13,5 +13,5 @@
 - [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 - [Safari](https://apps.apple.com/us/app/tampermonkey/id6738342400)
 
- **2. [«Установите скрипт»](https://raw.githubusercontent.com/seeedl1ng/UnYA/UnYA.user.js)**
+ **2. [«Установите скрипт»](https://github.com/seeedl1ng/UnYA/raw/refs/heads/main/UnYA.user.js)**
  
