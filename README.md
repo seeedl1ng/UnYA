@@ -13,5 +13,5 @@
 - [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 - [Safari](https://apps.apple.com/us/app/tampermonkey/id6738342400)
 
- **2. [«Установите скрипт»](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js)**
+ **2. [«Установите скрипт»](https://raw.githubusercontent.com/seeedl1ng/UnYA/UnYA.user.js)**
  
